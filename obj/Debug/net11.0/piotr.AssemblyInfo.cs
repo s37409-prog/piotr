@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("piotr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aecdd3f9bc8843dcfe172c475cc86ac3b44d329a")]
 [assembly: System.Reflection.AssemblyProductAttribute("piotr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("piotr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
