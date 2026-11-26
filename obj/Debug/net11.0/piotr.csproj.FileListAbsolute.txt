@@ -1,0 +1,16 @@
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.exe
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.deps.json
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.runtimeconfig.json
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.runtimeconfig.dev.json
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.dll
+C:\Users\Wiktor\piotr\bin\Debug\net11.0\piotr.pdb
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.AssemblyInfoInputs.cache
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.AssemblyInfo.cs
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.dll
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\refint\piotr.dll
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.pdb
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.genruntimeconfig.cache
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\ref\piotr.dll
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.csproj.Up2Date
