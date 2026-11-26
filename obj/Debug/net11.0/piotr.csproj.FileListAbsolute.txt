@@ -14,3 +14,4 @@ C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.pdb
 C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.genruntimeconfig.cache
 C:\Users\Wiktor\piotr\obj\Debug\net11.0\ref\piotr.dll
 C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.csproj.Up2Date
+C:\Users\Wiktor\piotr\obj\Debug\net11.0\piotr.sourcelink.json
